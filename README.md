@@ -1,1 +1,1 @@
-# jos classic creat a partir de calo.json
+# joc clàssic creat a partir de calo.json
